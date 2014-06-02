@@ -8,6 +8,8 @@
 
 * [Velocity.js](http://julian.com/research/velocity/)
 * [CSS vs. JS Animation: Which is Faster?](http://davidwalsh.name/css-js-animation)
+* [Improving UI Animation Workflow with Velocity.js | CSS-Tricks](http://css-tricks.com/improving-ui-animation-workflow-velocity-js/)
+
 
 ----
 
