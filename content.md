@@ -24,7 +24,7 @@
 ## Why jQuery's $.fn.animte so slow
 
 * triggers layout thrashing many times<br>➔ stuttering at start
-* invokes GC many times<br>➔ stuttering during animatino
+* invokes GC many times<br>➔ stuttering during animation
 * no RequestAnimationFrame<br>➔ low FPS
 
 ----
